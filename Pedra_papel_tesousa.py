@@ -8,6 +8,8 @@ while True:
     if usuario_input == "f":
         quit()
     if usuario_input in ["pedra","papel","tesousa"]:
+
+print("Ola mundo")
         
 
 
